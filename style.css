@@ -52,6 +52,7 @@ body{
     width: 288px;
     height: 288px;
     border-radius: 10px;
+    margin-bottom: 5px;
 }
 
 .text-content{
