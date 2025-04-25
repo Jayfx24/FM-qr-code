@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Jayfx2V4/FM-qr-code)
-- Live Site URL: [Add live site URL here](https://jayfx24.github.io/FM-qr-code/)
+- Solution URL: [https://github.com/Jayfx2V4/FM-qr-code]
+- Live Site URL: [https://jayfx24.github.io/FM-qr-code/]
 
 ## My process
 
